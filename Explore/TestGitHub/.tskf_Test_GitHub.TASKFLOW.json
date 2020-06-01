@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "3WJdKx8hdmgczHKXj4ZG4L",
+    "name" : "tskf_Test_GitHub",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "p20hELlBWlD2pHA-gt-1310915-2020-06-01T06:26:24.242Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "tskf_Test_GitHub",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ {
+    "id" : "ayKG1eNArqIdmDRjUlrHQ5",
+    "name" : "tsk_m_Test_GitHub",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "011A0A0Z000000000007"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "tsk_Test_GitHub",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/TestGitHub"
+  } ]
+}
